@@ -58,10 +58,8 @@
     cursor:pointer;
   }
 
-  .flex-containerDetails
-  {
+  .flex-containerDetails {
   display:flex;
- 
   }
 
   .flex-containerDetails > div {
